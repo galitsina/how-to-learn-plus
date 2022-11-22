@@ -1,0 +1,9 @@
+.footer{
+  margin:0;
+  padding: 60px 0 40px;
+  min-height: 350px;
+  height: 1px; /*требуется, чтобы дочерний блок взял высоту 100%*/
+  background-color: #000;
+  color: #fff;
+  box-sizing: border-box;
+}

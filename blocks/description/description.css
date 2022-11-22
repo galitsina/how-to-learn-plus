@@ -1,0 +1,8 @@
+.description {
+  /*Сбрасываем отсутпы на уровне блока, чтобы он не наследовал отступы браузера*/
+  margin:0;
+  padding: 100px 0 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}

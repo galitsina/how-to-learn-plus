@@ -1,0 +1,11 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  font-family: 'Inter', Arial, sans-serif, 'Helvetica Neue';
+  font-weight: 400;
+
+}
+
+.margin-auto{
+  margin: 0 auto;
+}

@@ -1,0 +1,13 @@
+.header {
+  /*Сбрасываем отсутпы на уровне блока, чтобы он не наследовал отступы браузера*/
+  margin:0;
+  padding: 0;
+  background-color: #f2f2f2;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  /* выше установили ограничения для секции */
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}

@@ -1,0 +1,9 @@
+.cards{
+  /*Сбрасываем отсутпы на уровне блока, чтобы он не наследовал отступы браузера*/
+  margin:0;
+  padding: 0;
+  width:920px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
