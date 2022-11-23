@@ -2,6 +2,7 @@
   /*Сбрасываем отсутпы на уровне блока, чтобы он не наследовал отступы браузера*/
   margin:0;
   padding: 0;
+  list-style: none;
   width:920px;
   display: flex;
   align-items: flex-start;

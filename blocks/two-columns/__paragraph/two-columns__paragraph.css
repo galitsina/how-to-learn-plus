@@ -1,6 +1,11 @@
 .two-columns__paragraph{
-  margin: 0;
+  margin: 0 0 30px;
 }
-span.two-columns__paragraph {
-  font-weight: 600;
+
+.two-columns__paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
+.two-columns__paragraph:first-of-type{
+  margin-top: 0;
 }

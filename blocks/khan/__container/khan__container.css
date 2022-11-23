@@ -5,3 +5,7 @@
   justify-content: space-between;
   align-items: flex-start;
 }
+
+.khan__khan__container {
+  margin: 0 auto;
+}

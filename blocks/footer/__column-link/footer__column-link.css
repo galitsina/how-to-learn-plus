@@ -9,3 +9,8 @@
   font-weight: normal;
   font-size: 18px;
 }
+
+.footer__column-link:hover {
+  transition: ease;
+  opacity: 0.4;
+}
