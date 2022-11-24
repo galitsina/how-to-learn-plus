@@ -1,11 +1,8 @@
 .khan__container {
+  margin: 0 auto;
   width:80%;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-start;
-}
-
-.khan__khan__container {
-  margin: 0 auto;
 }
