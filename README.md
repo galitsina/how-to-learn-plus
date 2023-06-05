@@ -8,6 +8,7 @@
 - Идентификаторы, псевдоклассы, псевдоэлементы;
 - HTML: видео, iframe, embed, API;
 - Анимации и трансформации.
+### [Ссылка на сайт](https://galitsina.github.io/russian-travel)
 
 # The "Learn to Learn" Project
 The "Learn to Learn" is a single-page static web page that offers the user useful tips for acquiring new information. It addresses learning problems, techniques, numbers and facts, and principles of learning. The page includes animations, helpful links, and TED talk videos.
@@ -19,3 +20,4 @@ The "Learn to Learn" is a single-page static web page that offers the user usefu
 - IDs, pseudo-classes, pseudo-elements
 - HTML: video, iframe, embed, API
 - Animations and transformations
+### [Website Link](https://galitsina.github.io/russian-travel)
